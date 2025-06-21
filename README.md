@@ -1,4 +1,4 @@
-﻿# Expert-Setter
+### Expert Setter
 This C++ code reads a number of test cases and, for each one, checks if a condition between two integers `X` and `Y` is satisfied.
 
 ### Let's break it down:
