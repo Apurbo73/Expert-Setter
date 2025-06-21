@@ -90,5 +90,4 @@ This C++ program processes multiple test cases where it reads two integers, `X` 
 
 In simpler terms, the code is determining whether doubling the value of `Y` is enough to meet or exceed `X`. It's useful in situations like checking if someone has at least half the resources required (e.g., time, money, strength) to complete a task. The result for each test case is printed immediately after the check.
 
-Let me know if you'd like a [real-world use case](f) or [code comment version](f) of this.
 
