@@ -85,4 +85,3 @@ Explanation:
 * 1×2 = 2 < 5 → NO
 * 3×2 = 6 ≥ 6 → YES
 
-Let me know if you'd like a [visual flowchart](f) or [real-world analogy](f) for better understanding.
